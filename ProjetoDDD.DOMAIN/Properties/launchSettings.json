@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ProjetoDDD.DOMAIN": {
+      "commandName": "Project"
+    },
+    "Aplicacao": {
+      "commandName": "Executable",
+      "workingDirectory": "C:\\Users\\arthur.ferreira\\source\\repos\\ProjetoDDD\\Aplicacao"
+    }
+  }
+}
